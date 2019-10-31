@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to websultanate software technologies pvt ltd
+title: Welcome to WEBSULTANATE GROUP
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
